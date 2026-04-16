@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Radu
 **Backend & AI Infrastructure Engineer in training** • 17 y/o • Romania
 
-I build production-grade APIs with **Python** and **FastAPI**, and I’m working toward specialising in **AI infrastructure**. 
+I build production-grade APIs with **Python** and **FastAPI**. 
 ---
 
 ### 🔨 What I'm building right now
@@ -24,12 +24,9 @@ I build production-grade APIs with **Python** and **FastAPI**, and I’m working
 **Currently learning**
 `pytest` `advanced system design` `Golang` `Kubernetes` `CI/CD with GitHub Actions`
 
-**Roadmap (Phase 3+)**
-`RAG pipelines` `pgvector` `LangChain` `vLLM` `LLMOPs / Langfuse` `fine-tuning`
-
 ---
 
-### 📚 Stack in depth
+### 📚 In depth API skills
 
 | Layer | Tools |
 | :--- | :--- |
