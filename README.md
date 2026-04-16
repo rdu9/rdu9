@@ -51,14 +51,6 @@ I build production-grade APIs with **Python** and **FastAPI**. I'm currently bri
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 <a href="https://discordapp.com/users/904069206939697154"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://instagram.com/27rxdu" target="_blank" rel="noopener noreferrer">
