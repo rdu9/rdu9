@@ -1,44 +1,62 @@
 # 👋 Hey, I'm Radu
 **Backend & AI Infrastructure Engineer in training** • 17 y/o • Romania
 
-I build production-grade APIs with **Python** and **FastAPI**. 
+I build production-grade APIs with **Python** and **FastAPI**. I'm currently bridging the gap between raw LLMs and real-world products.
+
+---
+
+### 🚀 About Me
+- 🌱 Currently exploring **Golang**, **Kubernetes**, **Advanced FastAPI**, and **AWS**
+- 🧠 Love building clean, fast, scalable apps
+- 📜 Roadmap: **PyTorch**, **LangChain**, **vLLM**, **Hugging Face**, and **Milvus**
+- 🔥 Focus: **AI Infrastructure Engineering**
+
 ---
 
 ### 🔨 What I'm building right now
 
 **[bookly](https://github.com/yourusername/bookly)** — a production-style REST API in FastAPI
 
-* **Async SQLAlchemy + PostgreSQL + Alembic** 
-* **JWT auth** 
-* **Celery + Redis** 
-* **Custom exception hierarchy** 
-* **pytest**
+* **Async SQLAlchemy + PostgreSQL + Alembic** * **JWT auth** with refresh tokens & Redis blocklist
+* **Celery + Redis** background task processing
+* **Custom exception hierarchy** & Middleware
+* **pytest** suite with 100% mocked dependencies
 
 ---
 
-### 🛠 Skills
-
-**Solid**
-`Python` `FastAPI` `PostgreSQL` `SQLModel / SQLAlchemy` `Redis` `Celery` `JWT auth` `Pydantic v2` `Alembic` `Docker` `Git`
-
-**Currently learning**
-`pytest` `advanced system design` `Golang` `Kubernetes` `CI/CD with GitHub Actions`
+### 🧰 Languages & Core Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
-### 📚 In depth API skills
+### ⚙️ Platforms & Tools
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=plastic&logo=pytest&logoColor=white" />
+
+---
+
+### 📚 In-depth API Stack
 
 | Layer | Tools |
 | :--- | :--- |
-| **Web framework** | FastAPI + Uvicorn |
-| **Database** | PostgreSQL + SQLModel + Alembic |
-| **Auth** | JWT • Redis blocklist |
-| **Background jobs** | Celery + Redis broker |
-| **Email** | fastapi-mail + SMTP |
-| **Testing** | pytest + unittest.mock + FastAPI TestClient |
-| **Containerisation** | Docker + Docker Compose |
+| **Web framework** | `FastAPI` + `Uvicorn` |
+| **Database** | `PostgreSQL` + `SQLModel` + `Alembic` |
+| **Auth** | `JWT` • `Redis blocklist` |
+| **Background jobs** | `Celery` + `Redis broker` |
+| **Testing** | `pytest` + `unittest.mock` |
+| **Containerisation** | `Docker` + `Docker Compose` |
 
 ---
+
+### 📊 GitHub Stats
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 
 ### 🌐 Connect With Me
