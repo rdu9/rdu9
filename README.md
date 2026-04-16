@@ -8,14 +8,12 @@ I build production APIs with **Python** and **FastAPI**.
 ### 🚀 About Me
 - 🌱 Currently exploring **Golang**, **Kubernetes**, **Advanced FastAPI**, and **AWS**
 - 🧠 Love building clean, fast, scalable apps
-- 📜 Roadmap: **PyTorch**, **LangChain**, **vLLM**, **Hugging Face**, and **Milvus**
-- 🔥 Focus: **AI Infrastructure Engineering**
-
+- 📜 Currently learning: **PyTorch**, **LangChain**, **vLLM**, **Hugging Face**, and **Milvus**
 ---
 
 ### 🔨 What I'm building right now
 
-**[bookly](https://github.com/yourusername/bookly)** — a production-style REST API in FastAPI
+**[bookly](https://github.com/rdu9/bookly)** — a production-style REST API in FastAPI
 
 * **Async SQLAlchemy + PostgreSQL + Alembic** * **JWT auth** with refresh tokens & Redis blocklist
 * **Celery + Redis** background task processing
