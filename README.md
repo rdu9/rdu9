@@ -15,10 +15,10 @@ I build production APIs with **Python** and **FastAPI**.
 
 **⚙️ [bookly](https://github.com/rdu9/bookly-api)** — a production-style REST API in FastAPI
 
-* **Async SQLAlchemy + PostgreSQL + Alembic** * **JWT auth** with refresh tokens & Redis blocklist
-* **Celery + Redis** background task processing
+* **Async SQLAlchemy + PostgreSQL + Alembic** + **JWT auth** with refresh tokens & Redis blocklist
+* **Celery + Redis** for background task processing
 * **Custom exception hierarchy** & Middleware
-* **pytest** suite with 100% mocked dependencies
+* **Pytest** with 100% mocked dependencies
 
 ---
 
