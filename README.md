@@ -1,31 +1,47 @@
-# 👋 Hey there, I'm radu!
+# 👋 Hey, I'm Radu
+**Backend & AI Infrastructure Engineer in training** • 17 y/o • Romania
 
-💻 A 17 year old from Romania that loves **Backend Development** and fixing impossible problems.
+I build production-grade APIs with **Python** and **FastAPI**, and I’m working toward specialising in **AI infrastructure**. 
+---
+
+### 🔨 What I'm building right now
+
+**[bookly](https://github.com/yourusername/bookly)** — a production-style REST API in FastAPI
+
+* **Async SQLAlchemy + PostgreSQL + Alembic** 
+* **JWT auth** 
+* **Celery + Redis** 
+* **Custom exception hierarchy** 
+* **pytest**
 
 ---
 
-### 🚀 About Me
-- 🌱 Currently exploring **Golang**, **Kubernetes**, **Advanced FastAPI** and **Cloud development**
-- 🧠 Love building clean, fast, scalable apps
-- 📜 Learning... **PyTorch**, **LangChain**, **vLLM**, **Hugging Face**, **Milvus** and more
-- 🔥 Interested in: **AI Infrastructure Engineering**
+### 🛠 Skills
+
+**Solid**
+`Python` `FastAPI` `PostgreSQL` `SQLModel / SQLAlchemy` `Redis` `Celery` `JWT auth` `Pydantic v2` `Alembic` `Docker` `Git`
+
+**Currently learning**
+`pytest` `advanced system design` `Golang` `Kubernetes` `CI/CD with GitHub Actions`
+
+**Roadmap (Phase 3+)**
+`RAG pipelines` `pgvector` `LangChain` `vLLM` `LLMOPs / Langfuse` `fine-tuning`
 
 ---
 
-### 🧰 Languages mastered
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 📚 Stack in depth
+
+| Layer | Tools |
+| :--- | :--- |
+| **Web framework** | FastAPI + Uvicorn |
+| **Database** | PostgreSQL + SQLModel + Alembic |
+| **Auth** | JWT • Redis blocklist |
+| **Background jobs** | Celery + Redis broker |
+| **Email** | fastapi-mail + SMTP |
+| **Testing** | pytest + unittest.mock + FastAPI TestClient |
+| **Containerisation** | Docker + Docker Compose |
 
 ---
-
-## ⚙️ Platforms & tools
-
-<img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white" alt="Vercel" />
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=plastic&logo=visualstudiocode&logoColor=white" alt="VSCode" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-
 ---
 
 ### 🌐 Connect With Me
