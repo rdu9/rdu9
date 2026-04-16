@@ -13,7 +13,7 @@ I build production APIs with **Python** and **FastAPI**.
 
 ### 🔨 What I'm building right now
 
-**[bookly](https://github.com/rdu9/bookly)** — a production-style REST API in FastAPI
+**⚙️ [bookly](https://github.com/rdu9/bookly-api)** — a production-style REST API in FastAPI
 
 * **Async SQLAlchemy + PostgreSQL + Alembic** * **JWT auth** with refresh tokens & Redis blocklist
 * **Celery + Redis** background task processing
