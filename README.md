@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Radu
 **Backend & AI Infrastructure Engineer in training** • 17 y/o • Romania
 
-I build production-grade APIs with **Python** and **FastAPI**. I'm currently bridging the gap between raw LLMs and real-world products.
+I build production APIs with **Python** and **FastAPI**. 
 
 ---
 
