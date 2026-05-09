@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Radu
-**Backend & AI Infrastructure Engineer in training** • 17 y/o • Romania
+**Backend & AI Infrastructure Engineer in training** • 18 y/o • Romania
 
 I build production APIs with **Python** and **FastAPI**. 
 
