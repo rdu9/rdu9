@@ -5,24 +5,24 @@ I build production APIs with **Python** and **FastAPI**.
 
 ---
 
-### 🚀 About Me
-- 🌱 Currently exploring **Golang**, **Kubernetes**, **Advanced FastAPI**, and **AWS**
-- 🧠 Love building clean, fast, scalable apps
-- 📜 Currently learning: **PyTorch**, **LangChain**, **vLLM**, **Hugging Face**, and **Milvus**
+### About Me
+- Currently exploring **Golang**, **Kubernetes**, **Advanced FastAPI**, and **AWS**
+- Love building clean, fast, scalable apps
+- Currently learning: **PyTorch**, **LangChain**, **vLLM**, **Hugging Face**, and **Milvus**
 ---
 
-### 🔨 What I'm building right now
+### 🔨 My latest project
+**⚙️ [board-management-app](https://github.com/rdu9/board-management-app)** — a production style REST API for board management built with FastAPI
 
-**⚙️ [bookly](https://github.com/rdu9/bookly-api)** — a production-style REST API in FastAPI
-
-* **Async SQLAlchemy + PostgreSQL + Alembic** + **JWT auth** with refresh tokens & Redis blocklist
-* **Celery + Redis** for background task processing
-* **Custom exception hierarchy** & Middleware
-* **Pytest** with 100% mocked dependencies
+* **Async SQLAlchemy + PostgreSQL + Alembic** + **JWT auth** with refresh tokens, email verification & Redis blocklist
+* **Celery + Redis** for background email processing + **WebSockets** for real-time notifications
+* **Role-based access control** — owner, admin, member roles with full permission enforcement
+* **Rate limiting** — per-user sliding window via Redis + **custom exception hierarchy** & structured logging
+* **Search, pagination, audit logging, board invitations & join request system**
 
 ---
 
-### 🧰 Languages & Core Stack
+### Languages & Core Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -30,13 +30,13 @@ I build production APIs with **Python** and **FastAPI**.
 
 ---
 
-### ⚙️ Platforms & Tools
+### Platforms & Tools
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=plastic&logo=pytest&logoColor=white" />
 
 ---
 
-### 📚 In-depth API Stack
+### In-depth API Stack
 
 | Layer | Tools |
 | :--- | :--- |
