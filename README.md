@@ -1,14 +1,6 @@
-# 👋 Hey, I'm Radu
+# Hey, I'm Radu
 **Backend & AI Infrastructure Engineer in training** • 18 y/o • Romania
 
-I build production APIs with **Python** and **FastAPI**. 
-
----
-
-### About Me
-- Currently exploring **Golang**, **Kubernetes**, **Advanced FastAPI**, and **AWS**
-- Love building clean, fast, scalable apps
-- Currently learning: **Terraform**, **LangChain**, **vLLM**, **Prometheus + Grafana**, and **Linux in depth**
 ---
 
 ### 🔨 My latest project
