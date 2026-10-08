@@ -12,4 +12,4 @@ serving it publicly anyway when an unrelated container went down.
 **Working with:** Python · FastAPI · PostgreSQL · Redis · Celery · Docker ·
 Linux · nginx · WireGuard 
 
-**Currently exploring:** Kubernetes networking, resource limits, pod lifecycle
+**Currently exploring:** Kubernetes , System Design
