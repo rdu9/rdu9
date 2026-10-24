@@ -1,15 +1,16 @@
-Backend and infrastructure engineer, mostly using Python.
+Backend and infrastructure engineer, mostly in Python.
 
-I build APIs with FastAPI and Postgres and I'm currently working down the stack —
+I build APIs with FastAPI and Postgres, and I'm working my way down the stack:
 Linux internals, containers, Kubernetes.
 
-**Live:** [discord2.xyz](https://discord2.xyz) — realtime chat app inspired by discord I built and
-self hosted on a Digitalocean droplet, behind nginx and Cloudflare.
+**Live:** [discord2.xyz](https://discord2.xyz). A realtime chat app inspired by Discord,
+self-hosted on a DigitalOcean droplet behind nginx and Cloudflare.
 
-**Latest:** [private-service-access](https://github.com/rdu9/private-service-access) - put a private service behind raw WireGuard, then unexpectedly found nginx
-serving it publicly anyway when an unrelated container went down.
+**Building:** [pastebin](https://github.com/rdu9/pastebin). A pastebin with burn-after-reading,
+expiring pastes and image uploads. Currently using, FastAPI, Postgres ,Redis, and k8s soon.
 
-**Working with:** Python · FastAPI · PostgreSQL · Redis · Celery · Docker ·
-Linux · nginx · WireGuard 
+**Latest write-up:** [private-service-access](https://github.com/rdu9/private-service-access).
+I put a private service behind WireGuard, then found nginx still serving it publicly
+after an unrelated container went down.
 
-**Currently exploring:** Kubernetes , System Design
+**Working with:** Python · FastAPI · Kubernetes · PostgreSQL · Redis · Celery · Docker · Linux · nginx · WireGuard
