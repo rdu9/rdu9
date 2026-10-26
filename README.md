@@ -7,7 +7,7 @@ Linux internals, containers, Kubernetes.
 self-hosted on a DigitalOcean droplet behind nginx and Cloudflare.
 
 **Building:** [pastebin](https://github.com/rdu9/pastebin). A pastebin with burn-after-reading,
-expiring pastes and image uploads. Currently using, FastAPI, Postgres ,Redis, and k8s soon.
+expiring pastes and image uploads. Currently using, FastAPI, Postgres , Redis, Garage, and more to come.
 
 **Latest write-up:** [private-service-access](https://github.com/rdu9/private-service-access).
 I put a private service behind WireGuard, then found nginx still serving it publicly
